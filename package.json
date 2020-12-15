@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/lakshay-angrish/software-lab-task/issues"
   },
-  "homepage": "https://github.com/lakshay-angrish/software-lab-task#readme"
+  "homepage": "https://github.com/lakshay-angrish/software-lab-task#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
 }
